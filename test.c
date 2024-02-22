@@ -11,7 +11,6 @@ int main()
     test_function();
     printf("test\n");
     printf("YO\n");
-
+    return (0);
 }
-
 
